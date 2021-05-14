@@ -3,13 +3,13 @@
 <p align="center">
   <h3 align="center">Simple python package</h3>
   <p align="center">
-    <a href="https://github.com/Georges-Ngandeu"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Georges-Ngandeu/SimplePythonPackage"><strong>Explore the docs »</strong></a>
     <br />
-    <a href="https://github.com/Georges-Ngandeu">View Demo</a>
+    <a href="https://github.com/Georges-Ngandeu/SimplePythonPackage">View Demo</a>
     ·
-    <a href="https://github.com/Georges-Ngandeu">Report Bug</a>
+    <a href="https://github.com/Georges-Ngandeu/SimplePythonPackage">Report Bug</a>
     ·
-    <a href="https://github.com/Georges-Ngandeu">Request Feature</a>
+    <a href="https://github.com/Georges-Ngandeu/SimplePythonPackage">Request Feature</a>
   </p>
 </p>
 
@@ -38,7 +38,7 @@ A simple python package that prints "Hello wolrd"
 <!-- CONTACT -->
 ## Contact
 
-Project Link: [https://github.com/Georges-Ngandeu/AfrikpayNodeSdk](https://github.com/Georges-Ngandeu/AfrikpayNodeSdk)
+Project Link: [https://github.com/Georges-Ngandeu/SimplePythonPackage](https://github.com/Georges-Ngandeu/SimplePythonPackage)
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
